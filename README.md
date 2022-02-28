@@ -23,6 +23,7 @@ Run commands
 3) ```yarn run dev```
 
 
-### If you see the window below then you are set to build AMAZON 2.0!
+### below is the amazon clone video display
 
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+ 
+[screencapture-localhost-3000-2022-02-28-06_10_02.pdf](https://github.com/mzaintariqdev/amazon-clone/files/8149846/screencapture-localhost-3000-2022-02-28-06_10_02.pdf)
